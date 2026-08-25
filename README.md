@@ -13,4 +13,5 @@ Each problem is written in Python and contains its own self-contained test block
 | # | Category | Problem | Solution |
 | :--- | :--- | :--- | :--- |
 | 01 | Arrays & Hashing | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [01_contains_duplicate.py](./arrays_and_hashing/01_contains_duplicate.py) |
-| 02 | Arrays & Hashing | Valid Anagram | *Tomorrow* |
+| 02 | Arrays & Hashing | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [02_valid_anagram.py](./arrays_and_hashing/02_valid_anagram.py) |
+| 03 | Arrays & Hashing | [Two Sum](https://leetcode.com/problems/two-sum/) | *Tomorrow* |
