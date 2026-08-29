@@ -16,4 +16,5 @@ Each problem is written in Python and contains its own self-contained test block
 | 02 | Arrays & Hashing | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [02_valid_anagram.py](./arrays_and_hashing/02_valid_anagram.py) |
 | 03 | Arrays & Hashing | [Two Sum](https://leetcode.com/problems/two-sum/) | [03_two_sum.py](./arrays_and_hashing/03_two_sum.py) |
 | 04 | Arrays & Hashing | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [04_group_anagrams.py](./arrays_and_hashing/04_group_anagrams.py) |
-| 05 | Arrays & Hashing | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | *Tomorrow* |
+| 05 | Arrays & Hashing | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [05_top_k_frequent_elements](./arrays_and_hashing/05_top_k_frequent_elements.py) |
+| 06 | Arrays & Hashing | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | *Tomorrow* |
